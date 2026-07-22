@@ -1,0 +1,15 @@
+Model Outputs
+
+
+Decision Tree:
+    Accuracy : 0.982
+
+
+
+GradientBoostingClassifier:
+    Accuracy : 0.984
+
+
+
+Random Forest Regression:
+    Accuracy : 0.984
